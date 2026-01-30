@@ -22,7 +22,9 @@ This project focuses on understanding the algorithmic intuition and practical im
 
 - Python  
 - NumPy  
-- Jupyter Notebook  
+- Jupyter Notebook
+- nltk
+- gensim
 
 ## Use Cases
 

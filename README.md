@@ -22,7 +22,9 @@ This project focuses on understanding the algorithmic intuition and practical im
 
 - Python  
 - NumPy  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Nltk
+- Gensim
 
 ## Use Cases
 
@@ -34,4 +36,4 @@ This project focuses on understanding the algorithmic intuition and practical im
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/soroush-mehdizade/word2vec.git
